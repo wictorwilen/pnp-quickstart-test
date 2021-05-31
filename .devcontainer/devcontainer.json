@@ -11,6 +11,5 @@
 	"settings": { 
 		"terminal.integrated.shell.linux": "/bin/bash"
 	},
-	"postCreateCommand": "yo teams",
 	"remoteUser": "node"
 }
